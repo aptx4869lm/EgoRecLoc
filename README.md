@@ -1,1 +1,1 @@
-# EgoRecLoc
+# Egocentric Action Grounding
